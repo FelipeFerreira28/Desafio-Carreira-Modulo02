@@ -18,4 +18,4 @@ Tenha o VS Code, Node.Js e o Insomina instalados em sua máquina.
 
    ![git clone](https://github.com/FelipeFerreira28/Desafio-Carreira-Modulo02/assets/80594074/7b07b25a-4915-4f87-bb91-0f93f0e63eed)
 
- # Terceiro Passo - Estruturando o Projeto
+ 
