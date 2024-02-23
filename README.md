@@ -1,14 +1,14 @@
 # Desafio-Carreira-Modulo02
 
 # Descrição
-API no qual ira simular uma calculadora, realizando calculos de soma, subtração, multiplicação e divisão.
+API com o foco de  simular uma calculadora, realizando as principais opereções de cálculo: soma, subtração, multiplicação e divisão.
 
 # Recomendações
 Tenha o VS Code, Node.Js e o Insomnia instalados em sua máquina.
 
 # Primeiro Passo - Clonando Repositório
 - Vá até o repositório "Desafio-Carreira-Modulo02";
-- Clique na opção "Code", em "Clone" selecione uma das opções para copiar o link (HTTPS ou SSH);
+- Clique na opção "Code", depois em "Clone", selecione uma das opções para copiar o link (HTTPS ou SSH);
   
  ![clonar repositorio](https://github.com/FelipeFerreira28/Desafio-Carreira-Modulo02/assets/80594074/f6075068-6487-4f7a-94bb-5eff6f3c65b6)
 
@@ -36,7 +36,7 @@ Tenha o VS Code, Node.Js e o Insomnia instalados em sua máquina.
    ![resultado template](https://github.com/FelipeFerreira28/Desafio-Carreira-Modulo02/assets/80594074/aa19329a-f7aa-4c50-a27c-d06ed23fc886)
 
  * Explicação:
-   No arquivo "calculadora.js", a função "somar" realiza a opreção recebendo os valores passados no endpoint.
+   No arquivo "calculadora.js", a função "somar" realiza a opreção soma, recebendo os valores passados no endpoint.
 
    ![funcao template](https://github.com/FelipeFerreira28/Desafio-Carreira-Modulo02/assets/80594074/2d13848e-2d04-4496-aaf4-a30509f4856d)
 
